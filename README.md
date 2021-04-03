@@ -1,5 +1,5 @@
-# particlesystems
-Swift Playgrounds devlog
+# Particle Systems
+## Swift Playgrounds devlog
 
 Este playgroundbook é parte de um log de desenvolvimento criado no meu canal do Youtube.
 Acesse a playlist para conhecer:
